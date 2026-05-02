@@ -3,6 +3,34 @@
   "glassSurfaces": true,
   "entries": [
     {
+      "id": "20260501-230312-lqwq",
+      "title": "A K Baba",
+      "commanders": [
+        "A K Baba"
+      ],
+      "dateStart": "2026-05-01T22:03:12.000Z",
+      "dateEnd": "2026-05-01T22:59:53.000Z",
+      "dateLabel": "01/05/2026, 23:03:12 - 01/05/2026, 23:59:53",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260501-230312-lqwq",
+      "summary": {
+        "borderlandsPct": 0.038461538461538464,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260429-211338-zysq",
       "title": "Hell Brad",
       "commanders": [
