@@ -1,7 +1,32 @@
 {
   "colorPalette": "amber-warm",
   "glassSurfaces": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260502-224914-7wdd",
+      "title": "A K Baba, M O L O T O O",
+      "commanders": [
+        "A K Baba",
+        "M O L O T O O"
+      ],
+      "dateStart": "2026-05-02T21:49:14.000Z",
+      "dateEnd": "2026-05-02T23:06:49.000Z",
+      "dateLabel": "02/05/2026, 22:49:14 - 03/05/2026, 00:06:49",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260502-224914-7wdd",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 44
+      }
+    },
     {
       "id": "20260501-205353-visr",
       "title": "Hell Brad",
