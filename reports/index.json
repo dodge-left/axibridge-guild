@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260508-215143-r3fi",
+      "title": "Hell Brad",
+      "commanders": [
+        "Hell Brad"
+      ],
+      "dateStart": "2026-05-08T20:51:43.000Z",
+      "dateEnd": "2026-05-08T22:14:57.000Z",
+      "dateLabel": "08/05/2026, 21:51:43 - 08/05/2026, 23:14:57",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260508-215143-r3fi",
+      "summary": {
+        "borderlandsPct": 0.9,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 24
+      }
+    },
+    {
       "id": "20260502-224914-7wdd",
       "title": "A K Baba, M O L O T O O",
       "commanders": [
