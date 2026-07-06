@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260701-221134-k0cv",
+      "title": "A K Baba",
+      "commanders": [
+        "A K Baba"
+      ],
+      "dateStart": "2026-07-01T21:11:34.000Z",
+      "dateEnd": "2026-07-01T22:43:04.000Z",
+      "dateLabel": "01/07/2026, 22:11:34 - 01/07/2026, 23:43:04",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260701-221134-k0cv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260702-213513-ck9u",
       "title": "A K Baba",
       "commanders": [
