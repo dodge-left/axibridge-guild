@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260706-223016-df45",
+      "title": "A K Baba, Chiif Justice",
+      "commanders": [
+        "A K Baba",
+        "Chiif Justice"
+      ],
+      "dateStart": "2026-07-06T21:30:16.000Z",
+      "dateEnd": "2026-07-06T22:57:44.000Z",
+      "dateLabel": "06/07/2026, 22:30:16 - 06/07/2026, 23:57:44",
+      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260706-223016-df45",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 18,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260701-221134-k0cv",
       "title": "A K Baba",
       "commanders": [
