@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260708-210815-sfjs",
+      "title": "A K Baba",
+      "commanders": [
+        "A K Baba"
+      ],
+      "dateStart": "2026-07-08T20:08:15.000Z",
+      "dateEnd": "2026-07-08T22:00:04.000Z",
+      "dateLabel": "08/07/2026, 21:08:15 - 08/07/2026, 23:00:04",
+      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260708-210815-sfjs",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260707-214500-s38o",
       "title": "A K Baba",
       "commanders": [
