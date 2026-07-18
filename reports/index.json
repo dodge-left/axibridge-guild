@@ -1,1018 +1,990 @@
-{
-  "colorPalette": "amber-warm",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260717-222729-mq2a",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
+[
+  {
+    "id": "20260717-222729-mq2a",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-07-17T21:27:29.000Z",
+    "dateEnd": "2026-07-17T22:33:55.000Z",
+    "dateLabel": "17/07/2026, 22:27:29 - 17/07/2026, 23:33:55",
+    "url": "https://dodge-left.github.io/axibridge-guild/?report=20260717-222729-mq2a",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 21,
+          "color": "#ffffff"
+        }
       ],
-      "dateStart": "2026-07-17T21:27:29.000Z",
-      "dateEnd": "2026-07-17T22:33:55.000Z",
-      "dateLabel": "17/07/2026, 22:27:29 - 17/07/2026, 23:33:55",
-      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260717-222729-mq2a",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 21,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 54
-      }
-    },
-    {
-      "id": "20260717-222729-pcr6",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-07-17T21:27:29.000Z",
-      "dateEnd": "2026-07-17T22:33:55.000Z",
-      "dateLabel": "17/07/2026, 22:27:29 - 17/07/2026, 23:33:55",
-      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260717-222729-pcr6",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 21,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 54
-      }
-    },
-    {
-      "id": "20260716-213241-8yho",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-07-16T20:32:41.000Z",
-      "dateEnd": "2026-07-16T22:24:22.000Z",
-      "dateLabel": "16/07/2026, 21:32:41 - 16/07/2026, 23:24:22",
-      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260716-213241-8yho",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 17,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260709-214754-4gs4",
-      "title": "A K Baba, Hell Brad",
-      "commanders": [
-        "A K Baba",
-        "Hell Brad"
-      ],
-      "dateStart": "2026-07-09T20:47:54.000Z",
-      "dateEnd": "2026-07-09T22:17:33.000Z",
-      "dateLabel": "09/07/2026, 21:47:54 - 09/07/2026, 23:17:33",
-      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260709-214754-4gs4",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 9,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260708-210815-sfjs",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-07-08T20:08:15.000Z",
-      "dateEnd": "2026-07-08T22:00:04.000Z",
-      "dateLabel": "08/07/2026, 21:08:15 - 08/07/2026, 23:00:04",
-      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260708-210815-sfjs",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 29,
-        "avgEnemySize": 26
-      }
-    },
-    {
-      "id": "20260707-214500-s38o",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-07-07T20:45:00.000Z",
-      "dateEnd": "2026-07-07T22:12:39.000Z",
-      "dateLabel": "07/07/2026, 21:45:00 - 07/07/2026, 23:12:39",
-      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260707-214500-s38o",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 14,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 24,
-        "avgEnemySize": 40
-      }
-    },
-    {
-      "id": "20260706-213336-s2ze",
-      "title": "A K Baba, Hell Brad",
-      "commanders": [
-        "A K Baba",
-        "Hell Brad"
-      ],
-      "dateStart": "2026-07-06T20:33:36.000Z",
-      "dateEnd": "2026-07-06T22:57:44.000Z",
-      "dateLabel": "06/07/2026, 21:33:36 - 06/07/2026, 23:57:44",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260706-213336-s2ze",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 17,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260701-221134-k0cv",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-07-01T21:11:34.000Z",
-      "dateEnd": "2026-07-01T22:43:04.000Z",
-      "dateLabel": "01/07/2026, 22:11:34 - 01/07/2026, 23:43:04",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260701-221134-k0cv",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 20,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 41,
-        "avgEnemySize": 25
-      }
-    },
-    {
-      "id": "20260702-213513-ck9u",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-07-02T20:35:13.000Z",
-      "dateEnd": "2026-07-02T22:48:38.000Z",
-      "dateLabel": "02/07/2026, 21:35:13 - 02/07/2026, 23:48:38",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260702-213513-ck9u",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 13,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 27,
-        "avgEnemySize": 19
-      }
-    },
-    {
-      "id": "20260703-224103-towd",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-07-03T21:41:03.000Z",
-      "dateEnd": "2026-07-03T22:56:37.000Z",
-      "dateLabel": "03/07/2026, 22:41:03 - 03/07/2026, 23:56:37",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260703-224103-towd",
-      "summary": {
-        "borderlandsPct": 0.12903225806451613,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 27,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 2,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 2,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260704-225548-l1mn",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-07-04T21:55:48.000Z",
-      "dateEnd": "2026-07-04T22:55:01.000Z",
-      "dateLabel": "04/07/2026, 22:55:48 - 04/07/2026, 23:55:01",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260704-225548-l1mn",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 47
-      }
-    },
-    {
-      "id": "20260705-204231-iq00",
-      "title": "A K Baba, Hell Brad",
-      "commanders": [
-        "A K Baba",
-        "Hell Brad"
-      ],
-      "dateStart": "2026-07-05T19:42:31.000Z",
-      "dateEnd": "2026-07-05T21:58:59.000Z",
-      "dateLabel": "05/07/2026, 20:42:31 - 05/07/2026, 22:58:59",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260705-204231-iq00",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 21,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 13,
-        "avgEnemySize": 42
-      }
-    },
-    {
-      "id": "20260508-215143-r3fi",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-05-08T20:51:43.000Z",
-      "dateEnd": "2026-05-08T22:14:57.000Z",
-      "dateLabel": "08/05/2026, 21:51:43 - 08/05/2026, 23:14:57",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260508-215143-r3fi",
-      "summary": {
-        "borderlandsPct": 0.9,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 9,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 24
-      }
-    },
-    {
-      "id": "20260502-224914-7wdd",
-      "title": "A K Baba, M O L O T O O",
-      "commanders": [
-        "A K Baba",
-        "M O L O T O O"
-      ],
-      "dateStart": "2026-05-02T21:49:14.000Z",
-      "dateEnd": "2026-05-02T23:06:49.000Z",
-      "dateLabel": "02/05/2026, 22:49:14 - 03/05/2026, 00:06:49",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260502-224914-7wdd",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 19,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 34,
-        "avgEnemySize": 44
-      }
-    },
-    {
-      "id": "20260501-205353-visr",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-05-01T19:53:53.000Z",
-      "dateEnd": "2026-05-01T20:29:24.000Z",
-      "dateLabel": "01/05/2026, 20:53:53 - 01/05/2026, 21:29:24",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260501-205353-visr",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 16,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 10,
-        "avgEnemySize": 29
-      }
-    },
-    {
-      "id": "20260501-230103-i6m9",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-05-01T22:01:03.000Z",
-      "dateEnd": "2026-05-01T22:52:08.000Z",
-      "dateLabel": "01/05/2026, 23:01:03 - 01/05/2026, 23:52:08",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260501-230103-i6m9",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 25,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 32,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260501-230312-lqwq",
-      "title": "A K Baba",
-      "commanders": [
-        "A K Baba"
-      ],
-      "dateStart": "2026-05-01T22:03:12.000Z",
-      "dateEnd": "2026-05-01T22:59:53.000Z",
-      "dateLabel": "01/05/2026, 23:03:12 - 01/05/2026, 23:59:53",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260501-230312-lqwq",
-      "summary": {
-        "borderlandsPct": 0.038461538461538464,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 25,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 30,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260429-211338-zysq",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-29T20:13:38.000Z",
-      "dateEnd": "2026-04-29T21:55:17.000Z",
-      "dateLabel": "29/04/2026, 21:13:38 - 29/04/2026, 22:55:17",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260429-211338-zysq",
-      "summary": {
-        "borderlandsPct": 0.36363636363636365,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 7,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260427-212855-5lhz",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-27T20:28:55.000Z",
-      "dateEnd": "2026-04-27T22:34:14.000Z",
-      "dateLabel": "27/04/2026, 21:28:55 - 27/04/2026, 23:34:14",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260427-212855-5lhz",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 25,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 45
-      }
-    },
-    {
-      "id": "20260426-220913-j7n1",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-26T21:09:13.000Z",
-      "dateEnd": "2026-04-26T22:42:32.000Z",
-      "dateLabel": "26/04/2026, 22:09:13 - 26/04/2026, 23:42:32",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260426-220913-j7n1",
-      "summary": {
-        "borderlandsPct": 0.875,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 6,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 1,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 23
-      }
-    },
-    {
-      "id": "20260425-192953-8az1",
-      "title": "Chromatic Storm, Sonnen Moun",
-      "commanders": [
-        "Chromatic Storm",
-        "Sonnen Moun"
-      ],
-      "dateStart": "2026-04-25T18:29:53.000Z",
-      "dateEnd": "2026-04-25T22:09:01.000Z",
-      "dateLabel": "25/04/2026, 19:29:53 - 25/04/2026, 23:09:01",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260425-192953-8az1",
-      "summary": {
-        "borderlandsPct": 0.6666666666666666,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 5,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 28
-      }
-    },
-    {
-      "id": "20260424-214030-mbxi",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-24T20:40:30.000Z",
-      "dateEnd": "2026-04-24T22:59:05.000Z",
-      "dateLabel": "24/04/2026, 21:40:30 - 24/04/2026, 23:59:05",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260424-214030-mbxi",
-      "summary": {
-        "borderlandsPct": 0.42857142857142855,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 8,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 4,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 18,
-        "avgEnemySize": 25
-      }
-    },
-    {
-      "id": "20260422-223255-e23n",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-22T21:32:55.000Z",
-      "dateEnd": "2026-04-22T22:14:11.000Z",
-      "dateLabel": "22/04/2026, 22:32:55 - 22/04/2026, 23:14:11",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260422-223255-e23n",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 4,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 22
-      }
-    },
-    {
-      "id": "20260418-222212-u6az",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-18T21:22:12.000Z",
-      "dateEnd": "2026-04-18T22:49:03.000Z",
-      "dateLabel": "18/04/2026, 22:22:12 - 18/04/2026, 23:49:03",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260418-222212-u6az",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 11,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 18,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260418-220057-n982",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-18T21:00:57.000Z",
-      "dateEnd": "2026-04-18T22:10:54.000Z",
-      "dateLabel": "18/04/2026, 22:00:57 - 18/04/2026, 23:10:54",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260418-220057-n982",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 11,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 15,
-        "avgEnemySize": 31
-      }
-    },
-    {
-      "id": "20260411-213949-jc77",
-      "title": "Unknown Commander",
-      "commanders": [],
-      "dateStart": "2026-04-11T20:39:49.000Z",
-      "dateEnd": "2026-04-11T22:29:13.000Z",
-      "dateLabel": "11/04/2026, 21:39:49 - 11/04/2026, 23:29:13",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260411-213949-jc77",
-      "summary": {
-        "borderlandsPct": 0.21875,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 25,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 7,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 27
-      }
-    },
-    {
-      "id": "20260410-225042-n3x8",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-10T21:50:42.000Z",
-      "dateEnd": "2026-04-10T23:12:41.000Z",
-      "dateLabel": "10/04/2026, 22:50:42 - 11/04/2026, 00:12:41",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260410-225042-n3x8",
-      "summary": {
-        "borderlandsPct": 0.6428571428571429,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 6,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 5,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 3,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 23
-      }
-    },
-    {
-      "id": "20260407-214249-rl27",
-      "title": "Hell Brad",
-      "commanders": [
-        "Hell Brad"
-      ],
-      "dateStart": "2026-04-07T20:42:49.000Z",
-      "dateEnd": "2026-04-07T22:01:25.000Z",
-      "dateLabel": "07/04/2026, 21:42:49 - 07/04/2026, 23:01:25",
-      "url": "https://ChromaticOrb.github.io/axibridge/?report=20260407-214249-rl27",
-      "summary": {
-        "borderlandsPct": 0.5,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 3,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 18,
-        "avgEnemySize": 14
-      }
-    },
-    {
-      "id": "20260403-210455-avac",
-      "title": "Ukropnaya Voda",
-      "commanders": [
-        "Ukropnaya Voda"
-      ],
-      "dateStart": "2026-04-03T20:04:55.000Z",
-      "dateEnd": "2026-04-03T22:44:10.000Z",
-      "dateLabel": "03/04/2026, 21:04:55 - 03/04/2026, 23:44:10",
-      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260403-210455-avac",
-      "summary": {
-        "borderlandsPct": 0.10714285714285714,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 25,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 3,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 35
-      }
-    },
-    {
-      "id": "20260401-222655-xi29",
-      "title": "X E N O M O L O",
-      "commanders": [
-        "X E N O M O L O"
-      ],
-      "dateStart": "2026-04-01T21:26:55.000Z",
-      "dateEnd": "2026-04-01T22:48:30.000Z",
-      "dateLabel": "01/04/2026, 22:26:55 - 01/04/2026, 23:48:30",
-      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260401-222655-xi29",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 14,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 19,
-        "avgEnemySize": 30
-      }
-    },
-    {
-      "id": "20260331-213849-by41",
-      "title": "Kvashenaya Kapusta, Ukropnaya Voda",
-      "commanders": [
-        "Kvashenaya Kapusta",
-        "Ukropnaya Voda"
-      ],
-      "dateStart": "2026-03-31T20:38:49.000Z",
-      "dateEnd": "2026-03-31T22:49:04.000Z",
-      "dateLabel": "31/03/2026, 21:38:49 - 31/03/2026, 23:49:04",
-      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260331-213849-by41",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 23,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 52
-      }
-    },
-    {
-      "id": "20260330-201630-a595",
-      "title": "Hell Brad, Kabachkovaya Ikra, Kvashenaya Kapusta, M O L O T O O, Ranger Ce, Ukropnaya Voda",
-      "commanders": [
-        "Hell Brad",
-        "Kabachkovaya Ikra",
-        "Kvashenaya Kapusta",
-        "M O L O T O O",
-        "Ranger Ce",
-        "Ukropnaya Voda"
-      ],
-      "dateStart": "2026-03-30T19:16:30.000Z",
-      "dateEnd": "2026-03-30T22:41:38.000Z",
-      "dateLabel": "30/03/2026, 20:16:30 - 30/03/2026, 23:41:38",
-      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260330-201630-a595",
-      "summary": {
-        "borderlandsPct": 0.2972972972972973,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 26,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 11,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 22,
-        "avgEnemySize": 30
-      }
-    },
-    {
-      "id": "20260329-211320-o74g",
-      "title": "Kvashenaya Kapusta, X E N O M O L O",
-      "commanders": [
-        "Kvashenaya Kapusta",
-        "X E N O M O L O"
-      ],
-      "dateStart": "2026-03-29T20:13:20.000Z",
-      "dateEnd": "2026-03-29T22:50:12.000Z",
-      "dateLabel": "29/03/2026, 21:13:20 - 29/03/2026, 23:50:12",
-      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260329-211320-o74g",
-      "summary": {
-        "borderlandsPct": 0.3333333333333333,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 5,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 3,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 17,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260328-203438-l668",
-      "title": "Chromatic Storm, M O L O T O O, X E N O M O L O",
-      "commanders": [
-        "Chromatic Storm",
-        "M O L O T O O",
-        "X E N O M O L O"
-      ],
-      "dateStart": "2026-03-28T20:34:38.000Z",
-      "dateEnd": "2026-03-28T22:24:16.000Z",
-      "dateLabel": "28/03/2026, 20:34:38 - 28/03/2026, 22:24:16",
-      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260328-203438-l668",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 27,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 1,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 1,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 8,
-        "avgEnemySize": 21
-      }
-    },
-    {
-      "id": "20260327-211144-4wmz",
-      "title": "Hell Brad, X E N O M O L O",
-      "commanders": [
-        "Hell Brad",
-        "X E N O M O L O"
-      ],
-      "dateStart": "2026-03-27T21:11:44.000Z",
-      "dateEnd": "2026-03-27T23:39:49.000Z",
-      "dateLabel": "27/03/2026, 21:11:44 - 27/03/2026, 23:39:49",
-      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260327-211144-4wmz",
-      "summary": {
-        "borderlandsPct": 0.75,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 16,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 6,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 2,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 14,
-        "avgEnemySize": 30
-      }
-    },
-    {
-      "id": "20260326-212315-0a1h",
-      "title": "Kvashenaya Kapusta, Ukropnaya Voda",
-      "commanders": [
-        "Kvashenaya Kapusta",
-        "Ukropnaya Voda"
-      ],
-      "dateStart": "2026-03-26T21:23:15.000Z",
-      "dateEnd": "2026-03-26T23:00:38.000Z",
-      "dateLabel": "26/03/2026, 21:23:15 - 26/03/2026, 23:00:38",
-      "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260326-212315-0a1h",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 23,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 47
-      }
-    },
-    {
-      "id": "20260323-200455-nrsj",
-      "title": "Hell Brad, Kvashenaya Kapusta",
-      "commanders": [
-        "Hell Brad",
-        "Kvashenaya Kapusta"
-      ],
-      "dateStart": "2026-03-23T20:04:55.000Z",
-      "dateEnd": "2026-03-24T00:22:11.000Z",
-      "dateLabel": "23/03/2026, 20:04:55 - 24/03/2026, 00:22:11",
-      "url": "https://chromaticorb.github.io/arcbridge/?report=20260323-200455-nrsj",
-      "summary": {
-        "borderlandsPct": 0.3225806451612903,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 21,
-            "color": "#ffffff"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 5,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 4,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 1,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 18,
-        "avgEnemySize": 25
-      }
+      "avgSquadSize": 22,
+      "avgEnemySize": 54
     }
-  ]
-}
+  },
+  {
+    "id": "20260716-213241-8yho",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-07-16T20:32:41.000Z",
+    "dateEnd": "2026-07-16T22:24:22.000Z",
+    "dateLabel": "16/07/2026, 21:32:41 - 16/07/2026, 23:24:22",
+    "url": "https://dodge-left.github.io/axibridge-guild/?report=20260716-213241-8yho",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 17,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260709-214754-4gs4",
+    "title": "A K Baba, Hell Brad",
+    "commanders": [
+      "A K Baba",
+      "Hell Brad"
+    ],
+    "dateStart": "2026-07-09T20:47:54.000Z",
+    "dateEnd": "2026-07-09T22:17:33.000Z",
+    "dateLabel": "09/07/2026, 21:47:54 - 09/07/2026, 23:17:33",
+    "url": "https://dodge-left.github.io/axibridge-guild/?report=20260709-214754-4gs4",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 9,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260708-210815-sfjs",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-07-08T20:08:15.000Z",
+    "dateEnd": "2026-07-08T22:00:04.000Z",
+    "dateLabel": "08/07/2026, 21:08:15 - 08/07/2026, 23:00:04",
+    "url": "https://dodge-left.github.io/axibridge-guild/?report=20260708-210815-sfjs",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 29,
+      "avgEnemySize": 26
+    }
+  },
+  {
+    "id": "20260707-214500-s38o",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-07-07T20:45:00.000Z",
+    "dateEnd": "2026-07-07T22:12:39.000Z",
+    "dateLabel": "07/07/2026, 21:45:00 - 07/07/2026, 23:12:39",
+    "url": "https://dodge-left.github.io/axibridge-guild/?report=20260707-214500-s38o",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 40
+    }
+  },
+  {
+    "id": "20260706-213336-s2ze",
+    "title": "A K Baba, Hell Brad",
+    "commanders": [
+      "A K Baba",
+      "Hell Brad"
+    ],
+    "dateStart": "2026-07-06T20:33:36.000Z",
+    "dateEnd": "2026-07-06T22:57:44.000Z",
+    "dateLabel": "06/07/2026, 21:33:36 - 06/07/2026, 23:57:44",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260706-213336-s2ze",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 17,
+      "avgEnemySize": 42
+    }
+  },
+  {
+    "id": "20260701-221134-k0cv",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-07-01T21:11:34.000Z",
+    "dateEnd": "2026-07-01T22:43:04.000Z",
+    "dateLabel": "01/07/2026, 22:11:34 - 01/07/2026, 23:43:04",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260701-221134-k0cv",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 20,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 41,
+      "avgEnemySize": 25
+    }
+  },
+  {
+    "id": "20260702-213513-ck9u",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-07-02T20:35:13.000Z",
+    "dateEnd": "2026-07-02T22:48:38.000Z",
+    "dateLabel": "02/07/2026, 21:35:13 - 02/07/2026, 23:48:38",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260702-213513-ck9u",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 13,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 27,
+      "avgEnemySize": 19
+    }
+  },
+  {
+    "id": "20260703-224103-towd",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-07-03T21:41:03.000Z",
+    "dateEnd": "2026-07-03T22:56:37.000Z",
+    "dateLabel": "03/07/2026, 22:41:03 - 03/07/2026, 23:56:37",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260703-224103-towd",
+    "summary": {
+      "borderlandsPct": 0.12903225806451613,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 27,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 2,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 36
+    }
+  },
+  {
+    "id": "20260704-225548-l1mn",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-07-04T21:55:48.000Z",
+    "dateEnd": "2026-07-04T22:55:01.000Z",
+    "dateLabel": "04/07/2026, 22:55:48 - 04/07/2026, 23:55:01",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260704-225548-l1mn",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 47
+    }
+  },
+  {
+    "id": "20260705-204231-iq00",
+    "title": "A K Baba, Hell Brad",
+    "commanders": [
+      "A K Baba",
+      "Hell Brad"
+    ],
+    "dateStart": "2026-07-05T19:42:31.000Z",
+    "dateEnd": "2026-07-05T21:58:59.000Z",
+    "dateLabel": "05/07/2026, 20:42:31 - 05/07/2026, 22:58:59",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260705-204231-iq00",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 21,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 13,
+      "avgEnemySize": 42
+    }
+  },
+  {
+    "id": "20260508-215143-r3fi",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-05-08T20:51:43.000Z",
+    "dateEnd": "2026-05-08T22:14:57.000Z",
+    "dateLabel": "08/05/2026, 21:51:43 - 08/05/2026, 23:14:57",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260508-215143-r3fi",
+    "summary": {
+      "borderlandsPct": 0.9,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 9,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 24
+    }
+  },
+  {
+    "id": "20260502-224914-7wdd",
+    "title": "A K Baba, M O L O T O O",
+    "commanders": [
+      "A K Baba",
+      "M O L O T O O"
+    ],
+    "dateStart": "2026-05-02T21:49:14.000Z",
+    "dateEnd": "2026-05-02T23:06:49.000Z",
+    "dateLabel": "02/05/2026, 22:49:14 - 03/05/2026, 00:06:49",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260502-224914-7wdd",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 19,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 34,
+      "avgEnemySize": 44
+    }
+  },
+  {
+    "id": "20260501-205353-visr",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-05-01T19:53:53.000Z",
+    "dateEnd": "2026-05-01T20:29:24.000Z",
+    "dateLabel": "01/05/2026, 20:53:53 - 01/05/2026, 21:29:24",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260501-205353-visr",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 16,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 10,
+      "avgEnemySize": 29
+    }
+  },
+  {
+    "id": "20260501-230103-i6m9",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-05-01T22:01:03.000Z",
+    "dateEnd": "2026-05-01T22:52:08.000Z",
+    "dateLabel": "01/05/2026, 23:01:03 - 01/05/2026, 23:52:08",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260501-230103-i6m9",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260501-230312-lqwq",
+    "title": "A K Baba",
+    "commanders": [
+      "A K Baba"
+    ],
+    "dateStart": "2026-05-01T22:03:12.000Z",
+    "dateEnd": "2026-05-01T22:59:53.000Z",
+    "dateLabel": "01/05/2026, 23:03:12 - 01/05/2026, 23:59:53",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260501-230312-lqwq",
+    "summary": {
+      "borderlandsPct": 0.038461538461538464,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 30,
+      "avgEnemySize": 32
+    }
+  },
+  {
+    "id": "20260429-211338-zysq",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-29T20:13:38.000Z",
+    "dateEnd": "2026-04-29T21:55:17.000Z",
+    "dateLabel": "29/04/2026, 21:13:38 - 29/04/2026, 22:55:17",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260429-211338-zysq",
+    "summary": {
+      "borderlandsPct": 0.36363636363636365,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 7,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260427-212855-5lhz",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-27T20:28:55.000Z",
+    "dateEnd": "2026-04-27T22:34:14.000Z",
+    "dateLabel": "27/04/2026, 21:28:55 - 27/04/2026, 23:34:14",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260427-212855-5lhz",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 45
+    }
+  },
+  {
+    "id": "20260426-220913-j7n1",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-26T21:09:13.000Z",
+    "dateEnd": "2026-04-26T22:42:32.000Z",
+    "dateLabel": "26/04/2026, 22:09:13 - 26/04/2026, 23:42:32",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260426-220913-j7n1",
+    "summary": {
+      "borderlandsPct": 0.875,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 6,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 1,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 23
+    }
+  },
+  {
+    "id": "20260425-192953-8az1",
+    "title": "Chromatic Storm, Sonnen Moun",
+    "commanders": [
+      "Chromatic Storm",
+      "Sonnen Moun"
+    ],
+    "dateStart": "2026-04-25T18:29:53.000Z",
+    "dateEnd": "2026-04-25T22:09:01.000Z",
+    "dateLabel": "25/04/2026, 19:29:53 - 25/04/2026, 23:09:01",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260425-192953-8az1",
+    "summary": {
+      "borderlandsPct": 0.6666666666666666,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 28
+    }
+  },
+  {
+    "id": "20260424-214030-mbxi",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-24T20:40:30.000Z",
+    "dateEnd": "2026-04-24T22:59:05.000Z",
+    "dateLabel": "24/04/2026, 21:40:30 - 24/04/2026, 23:59:05",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260424-214030-mbxi",
+    "summary": {
+      "borderlandsPct": 0.42857142857142855,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 8,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 4,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 25
+    }
+  },
+  {
+    "id": "20260422-223255-e23n",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-22T21:32:55.000Z",
+    "dateEnd": "2026-04-22T22:14:11.000Z",
+    "dateLabel": "22/04/2026, 22:32:55 - 22/04/2026, 23:14:11",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260422-223255-e23n",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 4,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 22
+    }
+  },
+  {
+    "id": "20260418-222212-u6az",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-18T21:22:12.000Z",
+    "dateEnd": "2026-04-18T22:49:03.000Z",
+    "dateLabel": "18/04/2026, 22:22:12 - 18/04/2026, 23:49:03",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260418-222212-u6az",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 11,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260418-220057-n982",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-18T21:00:57.000Z",
+    "dateEnd": "2026-04-18T22:10:54.000Z",
+    "dateLabel": "18/04/2026, 22:00:57 - 18/04/2026, 23:10:54",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260418-220057-n982",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 11,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 15,
+      "avgEnemySize": 31
+    }
+  },
+  {
+    "id": "20260411-213949-jc77",
+    "title": "Unknown Commander",
+    "commanders": [],
+    "dateStart": "2026-04-11T20:39:49.000Z",
+    "dateEnd": "2026-04-11T22:29:13.000Z",
+    "dateLabel": "11/04/2026, 21:39:49 - 11/04/2026, 23:29:13",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260411-213949-jc77",
+    "summary": {
+      "borderlandsPct": 0.21875,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 27
+    }
+  },
+  {
+    "id": "20260410-225042-n3x8",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-10T21:50:42.000Z",
+    "dateEnd": "2026-04-10T23:12:41.000Z",
+    "dateLabel": "10/04/2026, 22:50:42 - 11/04/2026, 00:12:41",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260410-225042-n3x8",
+    "summary": {
+      "borderlandsPct": 0.6428571428571429,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 6,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 5,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 3,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 23
+    }
+  },
+  {
+    "id": "20260407-214249-rl27",
+    "title": "Hell Brad",
+    "commanders": [
+      "Hell Brad"
+    ],
+    "dateStart": "2026-04-07T20:42:49.000Z",
+    "dateEnd": "2026-04-07T22:01:25.000Z",
+    "dateLabel": "07/04/2026, 21:42:49 - 07/04/2026, 23:01:25",
+    "url": "https://ChromaticOrb.github.io/axibridge/?report=20260407-214249-rl27",
+    "summary": {
+      "borderlandsPct": 0.5,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 3,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 14
+    }
+  },
+  {
+    "id": "20260403-210455-avac",
+    "title": "Ukropnaya Voda",
+    "commanders": [
+      "Ukropnaya Voda"
+    ],
+    "dateStart": "2026-04-03T20:04:55.000Z",
+    "dateEnd": "2026-04-03T22:44:10.000Z",
+    "dateLabel": "03/04/2026, 21:04:55 - 03/04/2026, 23:44:10",
+    "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260403-210455-avac",
+    "summary": {
+      "borderlandsPct": 0.10714285714285714,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 25,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 3,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 35
+    }
+  },
+  {
+    "id": "20260401-222655-xi29",
+    "title": "X E N O M O L O",
+    "commanders": [
+      "X E N O M O L O"
+    ],
+    "dateStart": "2026-04-01T21:26:55.000Z",
+    "dateEnd": "2026-04-01T22:48:30.000Z",
+    "dateLabel": "01/04/2026, 22:26:55 - 01/04/2026, 23:48:30",
+    "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260401-222655-xi29",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 14,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 30
+    }
+  },
+  {
+    "id": "20260331-213849-by41",
+    "title": "Kvashenaya Kapusta, Ukropnaya Voda",
+    "commanders": [
+      "Kvashenaya Kapusta",
+      "Ukropnaya Voda"
+    ],
+    "dateStart": "2026-03-31T20:38:49.000Z",
+    "dateEnd": "2026-03-31T22:49:04.000Z",
+    "dateLabel": "31/03/2026, 21:38:49 - 31/03/2026, 23:49:04",
+    "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260331-213849-by41",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 23,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 52
+    }
+  },
+  {
+    "id": "20260330-201630-a595",
+    "title": "Hell Brad, Kabachkovaya Ikra, Kvashenaya Kapusta, M O L O T O O, Ranger Ce, Ukropnaya Voda",
+    "commanders": [
+      "Hell Brad",
+      "Kabachkovaya Ikra",
+      "Kvashenaya Kapusta",
+      "M O L O T O O",
+      "Ranger Ce",
+      "Ukropnaya Voda"
+    ],
+    "dateStart": "2026-03-30T19:16:30.000Z",
+    "dateEnd": "2026-03-30T22:41:38.000Z",
+    "dateLabel": "30/03/2026, 20:16:30 - 30/03/2026, 23:41:38",
+    "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260330-201630-a595",
+    "summary": {
+      "borderlandsPct": 0.2972972972972973,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 26,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 11,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 22,
+      "avgEnemySize": 30
+    }
+  },
+  {
+    "id": "20260329-211320-o74g",
+    "title": "Kvashenaya Kapusta, X E N O M O L O",
+    "commanders": [
+      "Kvashenaya Kapusta",
+      "X E N O M O L O"
+    ],
+    "dateStart": "2026-03-29T20:13:20.000Z",
+    "dateEnd": "2026-03-29T22:50:12.000Z",
+    "dateLabel": "29/03/2026, 21:13:20 - 29/03/2026, 23:50:12",
+    "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260329-211320-o74g",
+    "summary": {
+      "borderlandsPct": 0.3333333333333333,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 5,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 3,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 17,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260328-203438-l668",
+    "title": "Chromatic Storm, M O L O T O O, X E N O M O L O",
+    "commanders": [
+      "Chromatic Storm",
+      "M O L O T O O",
+      "X E N O M O L O"
+    ],
+    "dateStart": "2026-03-28T20:34:38.000Z",
+    "dateEnd": "2026-03-28T22:24:16.000Z",
+    "dateLabel": "28/03/2026, 20:34:38 - 28/03/2026, 22:24:16",
+    "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260328-203438-l668",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 27,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 1,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 8,
+      "avgEnemySize": 21
+    }
+  },
+  {
+    "id": "20260327-211144-4wmz",
+    "title": "Hell Brad, X E N O M O L O",
+    "commanders": [
+      "Hell Brad",
+      "X E N O M O L O"
+    ],
+    "dateStart": "2026-03-27T21:11:44.000Z",
+    "dateEnd": "2026-03-27T23:39:49.000Z",
+    "dateLabel": "27/03/2026, 21:11:44 - 27/03/2026, 23:39:49",
+    "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260327-211144-4wmz",
+    "summary": {
+      "borderlandsPct": 0.75,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 16,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 6,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 2,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 30
+    }
+  },
+  {
+    "id": "20260326-212315-0a1h",
+    "title": "Kvashenaya Kapusta, Ukropnaya Voda",
+    "commanders": [
+      "Kvashenaya Kapusta",
+      "Ukropnaya Voda"
+    ],
+    "dateStart": "2026-03-26T21:23:15.000Z",
+    "dateEnd": "2026-03-26T23:00:38.000Z",
+    "dateLabel": "26/03/2026, 21:23:15 - 26/03/2026, 23:00:38",
+    "url": "https://ChromaticOrb.github.io/arcbridge/?report=20260326-212315-0a1h",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 23,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 47
+    }
+  },
+  {
+    "id": "20260323-200455-nrsj",
+    "title": "Hell Brad, Kvashenaya Kapusta",
+    "commanders": [
+      "Hell Brad",
+      "Kvashenaya Kapusta"
+    ],
+    "dateStart": "2026-03-23T20:04:55.000Z",
+    "dateEnd": "2026-03-24T00:22:11.000Z",
+    "dateLabel": "23/03/2026, 20:04:55 - 24/03/2026, 00:22:11",
+    "url": "https://chromaticorb.github.io/arcbridge/?report=20260323-200455-nrsj",
+    "summary": {
+      "borderlandsPct": 0.3225806451612903,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 21,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 5,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 18,
+      "avgEnemySize": 25
+    }
+  }
+]
