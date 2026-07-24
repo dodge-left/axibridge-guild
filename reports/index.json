@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260723-224057-qgsm",
+      "title": "Hell Brad",
+      "commanders": [
+        "Hell Brad"
+      ],
+      "dateStart": "2026-07-23T21:40:57.000Z",
+      "dateEnd": "2026-07-23T22:47:32.000Z",
+      "dateLabel": "23/07/2026, 22:40:57 - 23/07/2026, 23:47:32",
+      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260723-224057-qgsm",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 47,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260721-225001-blv7",
       "title": "A K Baba",
       "commanders": [
