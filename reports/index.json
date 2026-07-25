@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260724-224125-jrca",
+      "title": "A K Baba",
+      "commanders": [
+        "A K Baba"
+      ],
+      "dateStart": "2026-07-24T21:41:25.000Z",
+      "dateEnd": "2026-07-24T22:58:52.000Z",
+      "dateLabel": "24/07/2026, 22:41:25 - 24/07/2026, 23:58:52",
+      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260724-224125-jrca",
+      "summary": {
+        "borderlandsPct": 0.3333333333333333,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260723-224057-qgsm",
       "title": "Hell Brad",
       "commanders": [
