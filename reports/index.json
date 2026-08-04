@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-212112-be5m",
+      "title": "Chromatic Storm",
+      "commanders": [
+        "Chromatic Storm"
+      ],
+      "guild": {
+        "id": "6A7597C4-3441-EF11-81AB-8B4A188BDE13",
+        "name": "Dodge Right I Mean",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-08-02T20:21:12.000Z",
+      "dateEnd": "2026-08-02T22:27:36.000Z",
+      "dateLabel": "02/08/2026, 21:21:12 - 02/08/2026, 23:27:36",
+      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260802-212112-be5m",
+      "summary": {
+        "borderlandsPct": 0.8,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260725-225004-16ax",
       "title": "A K Baba",
       "commanders": [
