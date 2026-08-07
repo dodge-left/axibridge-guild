@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-221954-c06a",
+      "title": "Zu Heltzer Envoy",
+      "commanders": [
+        "Zu Heltzer Envoy"
+      ],
+      "guild": {
+        "id": "6A7597C4-3441-EF11-81AB-8B4A188BDE13",
+        "name": "Dodge Right I Mean",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-08-05T21:19:54.000Z",
+      "dateEnd": "2026-08-05T22:33:25.000Z",
+      "dateLabel": "05/08/2026, 22:19:54 - 05/08/2026, 23:33:25",
+      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260805-221954-c06a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 42,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260805-221954-t9vy",
       "title": "Zu Heltzer Envoy",
       "commanders": [
