@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-203917-960z",
+      "title": "Gwenwivar",
+      "commanders": [
+        "Gwenwivar"
+      ],
+      "guild": {
+        "id": "6A7597C4-3441-EF11-81AB-8B4A188BDE13",
+        "name": "Dodge Right I Mean",
+        "tag": "LEFT"
+      },
+      "dateStart": "2026-08-26T19:39:17.000Z",
+      "dateEnd": "2026-08-26T20:51:18.172Z",
+      "dateLabel": "26/08/2026, 20:39:17 - 26/08/2026, 21:51:18",
+      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260826-203917-960z",
+      "summary": {
+        "borderlandsPct": 0.47058823529411764,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 8,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260826-215350-bfnw",
       "title": "Hell Brad",
       "commanders": [
