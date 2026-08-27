@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260826-233259-t496",
+      "title": "Salutmdj",
+      "commanders": [
+        "Salutmdj"
+      ],
+      "guild": {
+        "id": "CBF9E9C2-1252-4870-AF85-E2B32C050F94",
+        "name": "Esoteriks",
+        "tag": "Eso"
+      },
+      "dateStart": "2026-08-26T22:32:59.000Z",
+      "dateEnd": "2026-08-26T23:31:51.478Z",
+      "dateLabel": "26/08/2026, 23:32:59 - 27/08/2026, 00:31:51",
+      "url": "https://dodge-left.github.io/axibridge-guild/?report=20260826-233259-t496",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260826-203917-960z",
       "title": "Gwenwivar",
       "commanders": [
